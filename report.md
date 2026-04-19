@@ -1,4 +1,27 @@
 # PES-VCS Lab Report
+Screenshots
+
+Q1
+   
+   a. <img width="943" height="206" alt="image" src="https://github.com/user-attachments/assets/4a1868fb-e73a-4c35-b118-844c0b90965a" />
+   b. <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/12fce07a-7c57-4a33-980c-027a6c6a162b" />
+Q2. 
+    
+    a. <img width="936" height="282" alt="image" src="https://github.com/user-attachments/assets/3857ef8f-975a-4859-b0ce-343a5488db18" />
+   b. <img width="939" height="111" alt="image" src="https://github.com/user-attachments/assets/a674cd47-ccf1-4769-bf93-f915a5e680ba" />
+Q3. 
+   
+   a. <img width="700" height="669" alt="image" src="https://github.com/user-attachments/assets/d90fb8ce-9103-4186-a413-91d8f0b9fb6c" />
+   b. <img width="695" height="62" alt="image" src="https://github.com/user-attachments/assets/1da3d062-30e9-47e5-b3cf-9c0dc9d864d8" />
+Q4.
+ 
+  a.<img width="694" height="384" alt="image" src="https://github.com/user-attachments/assets/2249f370-5be5-4d5b-9445-f406e3da73cc" />
+  b. <img width="695" height="193" alt="image" src="https://github.com/user-attachments/assets/6362af80-d009-46a2-ace5-07a290128722" />
+  c. <img width="699" height="92" alt="image" src="https://github.com/user-attachments/assets/ef13234e-3641-4a0e-805c-1bc05dde36a4" />
+
+FINAL
+<img width="694" height="754" alt="image" src="https://github.com/user-attachments/assets/292540b6-a97e-41e9-b076-50a6cdd9d66f" />
+<img width="460" height="563" alt="image" src="https://github.com/user-attachments/assets/4ecc69a0-651e-4e6e-bc58-1e28835e06b6" />
 
 ## Q5.1 — Implementing pes checkout
 To implement `pes checkout <branch>`:
