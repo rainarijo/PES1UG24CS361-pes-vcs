@@ -7,9 +7,9 @@ Q1
    b. <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/12fce07a-7c57-4a33-980c-027a6c6a162b" />
 Q2. 
     
-    a. <img width="933" height="297" alt="image" src="https://github.com/user-attachments/assets/a8f0e3ac-9e9f-4254-82e4-5ff3a0a4777e" />
+    a. <img width="937" height="270" alt="image" src="https://github.com/user-attachments/assets/eff83791-180b-4176-aecf-1743eb9b1de6" />
 
-   b. <img width="939" height="111" alt="image" src="https://github.com/user-attachments/assets/a674cd47-ccf1-4769-bf93-f915a5e680ba" />
+ b. <img width="939" height="111" alt="image" src="https://github.com/user-attachments/assets/a674cd47-ccf1-4769-bf93-f915a5e680ba" />
 Q3. 
    
    a. <img width="700" height="669" alt="image" src="https://github.com/user-attachments/assets/d90fb8ce-9103-4186-a413-91d8f0b9fb6c" />
